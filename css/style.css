@@ -62,7 +62,9 @@ height: 600px;
     height:50vh;
     background-repeat:no-repeat;
     background-attachment:fixed;
-    background-position:center bottom; 
+    background-position:center bottom; }
+
+    .pad00{padding: 20px;}
 
 
 
