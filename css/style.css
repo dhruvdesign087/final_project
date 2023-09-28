@@ -1,0 +1,96 @@
+.hero-section{
+    background-image: linear-gradient(rgba(22,22,22,0.5),rgba(22,22,22,0.5)),url("../images/gym1.jpg");
+    background-size:cover;
+    height:80vh;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center bottom;
+
+}
+.bg-color{color:black ;}
+.logo{margin-top:40px ;}
+.title{font-size:50px ;
+margin-top: 20px;}
+.para{font-size: 30px;}
+
+.section2{background-color: black;
+    background-image:url("../images/gym100.jpg");
+    background-size:cover;
+    height:80vh;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center bottom; 
+
+
+
+
+
+
+
+}
+.button2{margin-left:480px ;}
+.strong{margin-left:60px;
+margin-top:10px;}
+.pad{padding:50px;}
+.top{font-size: 80px;}
+.pad1{padding: 90px;}
+.muscle{width: 600px;
+height: 600px;
+
+}
+
+.couple1{margin-left:130px;}
+.pad2{padding-top:30px ;}
+.down{display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.pad3{padding-top: 150px;}
+.hero-section1{
+    background-image: linear-gradient(rgba(22,22,22,0.5),rgba(22,22,22,0.5)),url("../images/gym1.jpg");
+    background-size:cover;
+    height:60vh;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center bottom;
+
+}
+.lastbox{background-color: gray;
+    background-image:url("../images/gym00.jpg");
+    background-size:cover;
+    height:50vh;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center bottom; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+.button5{margin-left: 540px;
+         margin-top: 50px;
+    }
+
+.pad6{padding: 20px;}
+.size{font-size:   50px !important;;}
+.pad8{padding: 70px;}
+.pad10{padding: 180px;}
+.form33{margin-left: 250px;}
+.form44{margin-left: px;}
+.label{padding:10px;}
+.btn10{margin-right: 65px;}
+
+
+.box{background-color: gray;
+     padding: 10px;}
